@@ -1,3 +1,18 @@
+Package: astral-rinth-app
+Version: 0.9.204
+Architecture: amd64
+Maintainer: AstralRinthApp
+Installed-Size: 16740
+Depends: libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: pool/main/AstralRinth.App_0.9.204_amd64.deb
+Size: 7900506
+MD5sum: 7d9f7e8b7608b874f1276adf540d2260
+SHA1: 93f74199e0202f0a9c146d4b9106af6d72c0743e
+SHA256: 95ab4cd22952466e87db07823cee3085ec2ada6cfa8dccfd65f1bfeb61342c30
+Priority: optional
+Description: (none)
+ (none)
+
 Package: diablo-hello-world
 Version: 0.0.1
 Architecture: amd64
