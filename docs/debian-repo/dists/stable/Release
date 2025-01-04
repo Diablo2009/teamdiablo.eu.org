@@ -1,0 +1,30 @@
+Origin: Talon's Repository
+Label: Talon
+Suite: stable
+Codename: stable
+Version: 1.0
+Architectures: amd64
+Components: main
+Description: Talon's Repository of Software for Debian-based distros
+Date: Sat, 04 Jan 2025 19:05:32 +0000
+MD5Sum:
+ 5ee304b318ce670c2f07d61697eb4ddd 623 genrelease
+ a20610a4174106587e097de0db89ba74 2982 pool/main/diablo-hello-world_0.0.1-1_amd64.deb
+ 17faec9c2b3206188dd22484d6de43f0 326 update-packages
+ e3892514608e23c3e387d3ed1d63c5b7 429 dists/stable/main/binary-amd64/Packages
+ 49f788bb71371bd3ad7e21aebfd0dd48 319 dists/stable/main/binary-amd64/Packages.gz
+ 67e2f4a2918fc32d0aa93229a4739957 585 dists/stable/Release
+SHA1:
+ 149d9938a68258efb3fca25c31b26524d2eada3f 623 genrelease
+ b8cd85c1033fe160eaf9c1140084e67e16629499 2982 pool/main/diablo-hello-world_0.0.1-1_amd64.deb
+ b6089e57fb99d31cb03d00a72c3ff5ce5eb763f9 326 update-packages
+ 81c183e457b73e962b1c9abe063fcf5af8f96031 429 dists/stable/main/binary-amd64/Packages
+ 32ccf7bd5251d4871f4cb1046c20a7200a34d1c7 319 dists/stable/main/binary-amd64/Packages.gz
+ 4db477ccc7890d5522a8f5b2169c1a2338b54c5a 1038 dists/stable/Release
+SHA256:
+ 3b3e78201b6987a4da879656702af6a8a1886c3b2ee9b274701da6256c099461 623 genrelease
+ b31dd344a85a0d66b45cd716c32d8f1d13ffa5d92d5fe5afc51fa9db21619a73 2982 pool/main/diablo-hello-world_0.0.1-1_amd64.deb
+ 481f248e59ff702253651881b5f51c6f684959c3149097766a0f0f11590bba37 326 update-packages
+ b9de589c38d11e2d8bc1cf07347456ab61950b413122cbbf6fe851dc16addf40 429 dists/stable/main/binary-amd64/Packages
+ d93a2fefa376a2f9ac6dcbb9eef8096718646f5379566ea0ac8473a4625c077f 319 dists/stable/main/binary-amd64/Packages.gz
+ 395fb7817ab9a7fe5da118cbf90382a42fdd3a8040698386dc7f7bb040267dec 1622 dists/stable/Release

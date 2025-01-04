@@ -1,0 +1,13 @@
+Package: diablo-hello-world
+Version: 0.0.1
+Architecture: amd64
+Maintainer: Talon <talon@teamdiablo.eu.org>
+Depends: libc6
+Filename: pool/main/diablo-hello-world_0.0.1-1_amd64.deb
+Size: 2982
+MD5sum: a20610a4174106587e097de0db89ba74
+SHA1: b8cd85c1033fe160eaf9c1140084e67e16629499
+SHA256: b31dd344a85a0d66b45cd716c32d8f1d13ffa5d92d5fe5afc51fa9db21619a73
+Homepage: https://teamdiablo.eu.org
+Description: A program that prints hello
+

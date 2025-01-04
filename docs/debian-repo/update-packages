@@ -1,0 +1,9 @@
+#! /bin/bash
+
+FOLDER=${FOLDER:-"$HOME/Documents/src/repo"}
+BINARY="$FOLDER/dists/stable/main/binary-amd64"
+
+cd "$FOLDER"
+rm -rf "$BINARY"/Packages*
+dpkg-scanpackages --arch amd64 pool/ > dists/stable/main/binary-amd64/Packages
+cat dists/stable/main/binary-amd64/Packages | gzip -9 > dists/stable/main/binary-amd64/Packages.gz
